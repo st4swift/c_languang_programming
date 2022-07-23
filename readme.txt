@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 
 give somthing
 
+give other
+
