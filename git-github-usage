@@ -1,0 +1,31 @@
+
+
+## .ssh/config
+Host github.com
+     HostName ssh.github.com
+     User git
+     Port 22
+     IdentityFile ~/.ssh/st-github
+
+
+
+
+
+## ssh-agent 
+eval "$(ssh-agent -s)"
+
+ssh-add st-github  ## add ssh-key
+
+
+## test ssh connect to github.com
+ssh -T git@github.com
+
+
+git remote add origin git@github.com:st4swift/apue.git
+
+git branch -M main
+
+git push -u origin main
+
+
+
