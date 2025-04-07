@@ -9,3 +9,7 @@
 
 [OrbStack: run Linux on macOS](https://orbstack.dev)
 
+```
+  # debian
+  apt install clang clang-format man 
+```
