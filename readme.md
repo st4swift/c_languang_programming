@@ -1,3 +1,7 @@
-## learning C programming language & advanced programming in the unix environment
+## learning C programming language 
+
+[Standard C++ Library reference(https://cplusplus.com/reference/)
+
+
 
 
