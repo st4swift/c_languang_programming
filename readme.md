@@ -1,5 +1,7 @@
 ## C programming language 
 
+[Introduction to C---Introduction to Computer Structures and Real-time Systems](https://ece.uwaterloo.ca/~dwharder/icsrts/C/)
+
 [Standard C/C++ Library reference](https://cplusplus.com/reference/)
 
 
